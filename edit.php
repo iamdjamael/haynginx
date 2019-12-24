@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <title>CRUD PHP dan MySQLi - WWW.MALASNGODING.COM</title>
+        <title>TUGAS AKHIR LOADBALANCING NGINX WEBSERVER</title>
 </head>
 <body>
 
-        <h2>CRUD DATA MAHASISWA - WWW.MALASNGODING.COM</h2>
+        <h2>TUGAS AKHIR LOADBALANCING NGINX WEBSERVER</h2>
         <br/>
         <a href="index.php">KEMBALI</a>
         <br/>
